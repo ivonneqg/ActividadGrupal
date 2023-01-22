@@ -1,0 +1,12 @@
+﻿id,pais,poblacion,pib,porcentaje,mujeres,hombres,capital,moneda,salario
+ARG,Argentina,45829128,388.28,10.49,23146631,22049146,Buenos Aires,Peso argentino,323
+BOL,Bolivia,11920217,39.38,2.73,5834729,5936423,La Paz,Boliviano,313
+BRA,Brasil,215276059,1434.08,49.25,108123626,107152433,Brasilia,Real,214
+CHL,Chile,19400196,252.76,4.44,9690543,9425666,Santiago de Chile,Peso chileno,409
+COL,Colombia,51506142,271.46,11.78,25898327,25171408,Bogotá,Peso colombiano,241
+ECU,Ecuador,18000607,96.67,4.12,8697893,8945176,Quito,Dólar estadounidense,400
+PRY,Paraguay,7259521,35.88,1.66,3508178,3624360,Asunción,Guaraní paraguayo,332
+PER,Perú,33520746,203.77,7.67,1659324,16570305,Lima,Nuevo sol,236
+SUR,Surinam,593848,2.41,0.13,291812,297324,Paramaribo,Dólar surinamés,- -
+URY,Uruguay,3488671,55.71,0.8,1795391,1684532,Montevideo,Peso uruguayo,409
+VEN,Venezuela,29196980,47.26,6.68,14451011,14110308,Caracas,Bolívar,1.67
