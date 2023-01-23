@@ -42,8 +42,8 @@ var legend = d3.legendColor()
 // Cargar datos
 d3.queue()
     //.defer(d3.json, "http://enjalot.github.io/wwsd/data/world/world-110m.geojson")
-    .defer(d3.json, "paisessud.json")
-    .defer(d3.csv, "datapaises.csv", function(d) { data.set(d.id, d); })
+    .defer(d3.json, "https://raw.githubusercontent.com/ivonneqg/ActividadGrupal/main/paisessud.json")
+    .defer(d3.csv, "https://raw.githubusercontent.com/ivonneqg/ActividadGrupal/main/datapaises.csv", function(d) { data.set(d.id, d); })
     .await(ready);
 
 // Crear el tooltip
